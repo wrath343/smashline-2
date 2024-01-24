@@ -1,0 +1,18 @@
+Plugin info:
+
+This mod take out the momentum of Bowser down air, So he can actually spike!
+
+In the code you will find some parts of the code with "/" this convert the paragraph into a comment so they can't be run.
+
+
+Plugin info:
+
+En el código encontrará algunas partes del código con "/" que convierte el párrafo en un comentario para que no se puedan ejecutar.
+
+
+Not Wi-Fi safe!
+No es seguro con Wi-Fi!
+
+
+Enjoy!
+Disfruta!
